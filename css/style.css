@@ -1,0 +1,25 @@
+.logo{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.logo-span{
+    font-weight: 700;
+}
+.nav-list{
+    text-align: right;
+}
+.nav-list li{
+    display: inline-block;
+    margin: 0 7px;
+}
+.section-1{
+    background-image: url('/images/gren1.svg');
+    height: 238px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
