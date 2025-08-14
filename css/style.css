@@ -145,3 +145,53 @@ ul{
     color: #FFFFFF; 
     padding: 2px;
 }
+
+
+.portfolio-header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+/* text-weight: 700 */
+
+.portfolio-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 9px;
+}
+
+/* .portfolio-containers{
+    display: flex;
+    flex-direction: column;
+    
+} */
+
+
+    
+.mobile-photo{
+size: 130 180 ;
+}
+
+.team{
+    background-color:#69C69A ;
+    height: 200px;
+}
+
+.team-header{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 30px;
+
+}
+
+.member {
+    height: 51px;
+    width: 50px;
+    background-color: #96E7C0;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    display: flex;
+    
+}
