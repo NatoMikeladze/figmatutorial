@@ -160,18 +160,128 @@ ul{
     font-size: 9px;
 }
 
-/* .portfolio-containers{
+.portfolio-containers{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.first-container{
     display: flex;
     flex-direction: column;
-    
-} */
-
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
 
     
 .mobile-photo{
 width: 130px; 
-height: 130px;
+height: 180px;
 }
+.flyer{
+    width: 130px;
+    height: 150px;
+    margin-top: 20px;
+}
+.website-photo{
+    width: 130px;
+    height: 149px;
+    margin-top: 20px;
+}
+.website-photo2{
+    width: 130px;
+    height: 156px;
+    margin-top: 20px;
+}
+
+
+
+.second-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.second-first{
+    width: 131px;
+    height: 110px;
+}
+
+.second-second{
+    width: 130px;
+    height: 110px;
+    margin-top: 20px;
+}
+
+.second-third{
+    width: 130px;
+    height: 130px;
+    margin-top: 20px;
+}
+
+.second-fourth{
+    width: 130px;
+    height: 137px;
+    margin-top: 20px;
+}
+
+.second-fifth{
+    width: 130px;
+    height: 137px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+.third-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.third-first{
+    width: 130px;
+    height: 180px;
+}
+
+.third-second{
+    width: 130px;
+    height: 110px;
+    margin-top: 20px;
+}
+.third-third{
+    width: 130px;
+    height: 153px;
+    margin-top: 20px;
+}
+
+.third-fourth{
+    width: 130px;
+    height: 118px;
+    margin-top: 20px;
+}
+
+.third-fifth{
+    width: 130px;
+    height: 65px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
 
 .team{
     background-color:#69C69A ;
@@ -205,6 +315,29 @@ height: 130px;
 
 
 
+
+
+
+
+
+ .contact-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+ }
+ .contact-text {
+    text-align: center;
+    font-weight: 700;
+    font-size: 9px;
+    margin-top: 10px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+ 
  .send-button{
     width: 100px;
     height: 34px;
