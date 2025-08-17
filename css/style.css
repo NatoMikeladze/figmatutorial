@@ -1,3 +1,4 @@
+/* rogor gavaketo ise rom ekranis zomis gadidebisas ar gaiwelos? */
 *{
     font-family: 'Inter 28pt';
     font-weight: 400;
@@ -90,7 +91,7 @@ header{
   background: url('/images/hand.svg') center/cover no-repeat;
   margin: 11px 0;
 }
-
+/* ? */
 .services::before {
   content: "";
   position: absolute;
@@ -337,6 +338,21 @@ height: 180px;
  }
 
 
+
+    .contact-form {
+        display: inline;
+        align-items: center;
+        justify-content: center;
+        width: 70%;
+        margin-left: 30px;
+        margin-top: 40px;
+        
+    }
+    .contact-form{
+        width: 100px;
+        height: 34px;
+    }
+
  
  .send-button{
     width: 100px;
@@ -347,7 +363,22 @@ height: 180px;
     cursor: pointer;
     border-radius: 20px;
    
-  
  }
+
+ .footer-header{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+ }
+    .footer-contact-icons {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        /* color: #69C69A; */
+        
+    }
 
 
